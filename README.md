@@ -1,1 +1,2 @@
-# gitpractice
+# gitpratice 
+Practice text 
